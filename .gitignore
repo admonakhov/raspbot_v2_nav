@@ -8,7 +8,7 @@ __pycache__/
 
 # ROS2
 build/
-logs/
+log/
 install/
 
 # Distribution / packaging

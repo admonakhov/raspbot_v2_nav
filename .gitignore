@@ -6,9 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+# ROS2
+build/
+logs/
+install/
+
 # Distribution / packaging
 .Python
 build/
+logs/
+install/
 develop-eggs/
 dist/
 downloads/
